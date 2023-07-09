@@ -1,0 +1,21 @@
+[
+    {"id": 1, 
+    "name": "sprits", 
+    "price": 400, 
+    "stock": true },
+    
+    {"id": 2, 
+    "name": "arrows", 
+    "price": 220, 
+    "stock": true },
+
+    {"id": 3, 
+    "name": "great axe", 
+    "price": 750, 
+    "stock": true },
+
+    {"id": 4,
+    "name": "ulitimate weapon", 
+    "price": 10000, 
+    "stock": true }
+]
