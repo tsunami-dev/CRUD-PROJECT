@@ -5,6 +5,8 @@ const { index, show, create, destroy, edit } = require("./src/productsController
 
 const inform = console.log
 
+console.log(index)
+
 function run () {
 
     inform("welcome travler, how can i help?\n\n")
@@ -65,10 +67,3 @@ function run () {
 
 run()
 
-module.exports = {
-    index,
-    show,
-    create,
-    edit,
-    destroy
-}
