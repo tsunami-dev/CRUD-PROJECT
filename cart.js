@@ -13,7 +13,7 @@ function run() {
     let writeToCart = false;
     let updatedCart = [];
 
-    let itemInCart = readCartJSON("data", "Cart.JSON")
+    let itemInCart = readCartJSON("data", "CArt.JSON")
     switch (action) {
 
         case "addToCart":
